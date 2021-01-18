@@ -3,4 +3,4 @@ C# Inyección de Dependencias Ejemplos
 
 LINK del Vídeo : https://youtu.be/7rhQ7avuGFM
 
-(Explicación del uso de Inyecció de Dependencia : SimpleInjector)
+(Explicación del uso de Inyección de Dependencia : SimpleInjector)
